@@ -22,7 +22,7 @@
 
 ### 方式一：直接运行 exe（推荐）
 
-下载 `MacroRecorder.exe`，双击运行即可。录制文件和配置自动保存在 exe 所在目录。
+从 [Releases](https://github.com/qiejineifu/macro-recorder/releases) 页面下载最新版 `MacroRecorder.exe`，双击运行即可。录制文件和配置自动保存在 exe 所在目录。
 
 ### 方式二：从源码运行
 
