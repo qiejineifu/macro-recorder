@@ -1,0 +1,13 @@
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# 用户数据
+config.json
+recordings/
